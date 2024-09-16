@@ -1,0 +1,21 @@
+{
+  "effect.bedrock_tools.flight": "Flight",
+  "item.bedrock_tools.bedrock_axe": "Bedrock Axe",
+  "item.bedrock_tools.bedrock_boots": "Bedrock Boots",
+  "item.bedrock_tools.bedrock_chestplate": "Bedrock Chestplate",
+  "item.bedrock_tools.bedrock_helmet": "Bedrock Helmet",
+  "item.bedrock_tools.bedrock_hoe": "Bedrock Hoe",
+  "item.bedrock_tools.bedrock_leggings": "Bedrock Leggings",
+  "item.bedrock_tools.bedrock_pickaxe": "Bedrock Pickaxe",
+  "item.bedrock_tools.bedrock_shovel": "Bedrock Shovel",
+  "item.bedrock_tools.bedrock_sword": "Bedrock Sword",
+  "item.bedrock_tools.obsidian_axe": "Obsidian Axe",
+  "item.bedrock_tools.obsidian_boots": "Obsidian Boots",
+  "item.bedrock_tools.obsidian_chestplate": "Obsidian Chestplate",
+  "item.bedrock_tools.obsidian_helmet": "Obsidian Helmet",
+  "item.bedrock_tools.obsidian_hoe": "Obsidian Hoe",
+  "item.bedrock_tools.obsidian_leggings": "Obsidian Leggings",
+  "item.bedrock_tools.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.bedrock_tools.obsidian_shovel": "Obsidian Shovel",
+  "item.bedrock_tools.obsidian_sword": "Obsidian Sword"
+}

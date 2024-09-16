@@ -1,0 +1,12 @@
+{
+  "values": [
+    "bedrock_tools:bedrock_helmet",
+    "bedrock_tools:bedrock_chestplate",
+    "bedrock_tools:bedrock_leggings",
+    "bedrock_tools:bedrock_boots",
+    "bedrock_tools:obsidian_helmet",
+    "bedrock_tools:obsidian_chestplate",
+    "bedrock_tools:obsidian_leggings",
+    "bedrock_tools:obsidian_boots"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "bedrock_tools",
+	"version": "${version}",
+	"name": "Bedrock Tools",
+	"description": "This mod adds obsidian and bedrock tools. Now you can mine bedrock with some effort",
+	"authors": [
+		"Jiraiyah"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "",
+		"issues": ""
+	},
+	"license": "MIT",
+	"icon": "assets/bedrock_tools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"jiraiyah.bedrock_tools.Main"
+		],
+		"fabric-datagen": [
+			"jiraiyah.bedrock_tools.DataGen"
+		]
+	},
+	"mixins": [
+		"bedrock_tools.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu-badges-lib": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/pmM4emCbuH"
+			},
+			"update_checker": true
+		}
+	}
+}
