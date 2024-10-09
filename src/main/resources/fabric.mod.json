@@ -8,9 +8,9 @@
 		"Jiraiyah"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": "",
-		"issues": ""
+		"homepage": "https://modrinth.com/mod/bedrock-tools",
+		"sources": "https://github.com/drkhodakarami/BedrockTools",
+		"issues": "https://github.com/drkhodakarami/BedrockTools/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/bedrock_tools/icon.png",
